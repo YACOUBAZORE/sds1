@@ -1,0 +1,183 @@
+.menu{
+    display: flex;
+    margin-bottom: ;
+
+}
+    .bar {
+        
+        margin-top: 60px;
+        background-color:#00A19A;
+        margin-left: 20px !important;
+        margin-right: 20px;
+        width: 100% !important;
+        height: 100px;
+    }
+h3{
+    color:white;
+    text-align: center;
+}
+.bar2 {
+        
+    margin-top: 60px;
+    background-color:white;
+    margin-left: 140px !important;
+    width: 85% !important;
+    height: 100px;
+    border: solid 12px #00A19A;
+    margin-bottom: 70px;
+    
+
+}
+.bar2 h3{
+    color:black;
+    text-align: center;
+
+}
+.bloc img{
+    margin-bottom: 40px !important;
+    margin-top: 40px !important;
+}
+.card1{
+    width: 400px;
+    height: 400px;
+    margin-left: 200px;
+}
+
+.card2{
+    width: 600px;
+    height: 400px;
+}
+.temple h1{color: brown;
+    text-align: center;
+    margin-top: 100px;
+
+}
+.ico1 img{
+    margin-left: 180px;
+    
+}
+.icon{
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.footer{
+    margin-top: 60px;
+    background-color :orangered;
+    width: 1080px !important;
+    height: 150px;
+    border: solid 12px #00A19A;
+    display: flex !important;
+    
+}
+.bod{
+    border: 1px solid black !important;
+}
+.flex{
+    display: flex !important;
+    justify-content: space-between;
+    width: 100% !important;
+    padding: 0;
+}
+.bloc1{
+    color: black;
+    display: flex;
+}
+.bloc2{
+padding-left: 200px;
+display: flex;
+color: black;
+}
+.bloc3{
+    padding-left: 200px;
+    display: flex;
+    color: black;
+    }
+
+
+
+
+
+
+    css authentification
+
+    * {box-sizing: border-box}
+
+/* Add padding to containers */
+.container {
+  padding: 16px;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: 1px solid #00A19A;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Overwrite default styles of hr */
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+/* Set a style for the submit/register button */
+.registerbtn {
+  background-color: brown;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.registerbtn:hover {
+  opacity:1;
+}
+
+/* Add a blue text color to links */
+a {
+  color: dodgerblue;
+}
+
+
+.aut{
+  background-color: #00A19A;
+  width: 600px !important;
+  color: white;
+  
+}
+
+
+/* css bouton*/
+
+.button {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #04AA6D;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
